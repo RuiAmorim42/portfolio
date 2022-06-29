@@ -1380,7 +1380,7 @@ progress {
 
   .col-lg-6 {
     flex: 0 0 auto;
-    width: 50%;
+    width: 80%;
   }
 
   .col-lg-7 {
@@ -5396,7 +5396,6 @@ textarea.form-control-lg {
 }
 .btn-close:focus {
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(26, 188, 156, 0.25);
   opacity: 1;
 }
 .btn-close:disabled, .btn-close.disabled {
